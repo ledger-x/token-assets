@@ -2,9 +2,10 @@
   "name": "Tether",
   "symbol": "USDT",
   "description": "",
-  "image": "https://github.com/ledger-x/token-assets/blob/main/No.jpg",
+  "image": "https://raw.githubusercontent.com/ledger-x/token-assets/main/No.jpg",
   "decimals": 18,
 
   }
 }
+
 
