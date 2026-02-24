@@ -1,1 +1,9 @@
+{
+  "name": "Tether",
+  "symbol": "USDT",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/USERNAME/REPO/main/logo.png",
+  "decimals": 18,
 
+  }
+}
